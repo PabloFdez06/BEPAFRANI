@@ -1,6 +1,6 @@
 # Práctica 2.2
 
-## 2.1 Instalación de entornos de desarrollo, propietarios y libres (CE 2.a)
+## 2.1 Instalación de entornos de desarrollo, propietarios y libres
 
 Elige dos entornos de desarrollo: Instala ambos en tu equipo y captura pantallas del proceso de instalación.
 
