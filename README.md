@@ -37,14 +37,14 @@ En cada IDE, agrega extensiones o módulos que amplíen su funcionalidad. Por ej
 **Preguntas evaluativas:**
 
 1. **¿Cómo fue el proceso de instalación de extensiones o módulos en cada IDE?**
-
+> [Instalación Visual Studio Code](./Instalación_Extensiones.pdf)
 2. **¿Qué beneficios proporcionan las extensiones o plugins que instalaste para el desarrollo de tus proyectos?**
 
 **Evidencia:** Captura de pantalla del panel de extensiones o plugins instalados en cada IDE.
 
 - **VSCode:** La instalación de las extensiones en Visual Studio es muy sencilla. Simplemente vamos a "Extensiones", seleccionamos la que queramos o la buscamos y la instalamos. Para Python usamos un conjunto de 3 extensiones, que son las siguientes:
 
-> [Aquí va la imagen del panel de extensiones en VSCode]
+> [Instalación Visual Studio Code](./Instalación_Extensiones_VSCode.pdf)
 
 Por ejemplo, aquí se muestran las opciones que tienes con una extensión de Python. En el mismo sitio donde se ve "Uninstall", veríamos "Install"; simplemente es darle clic.
 
@@ -63,13 +63,17 @@ Personaliza el entorno de trabajo en cada IDE (tema, atajos de teclado) y automa
 
    Presionando `Ctrl + Shift + P` abrimos los comandos, ahí buscamos "color" y vamos a "Tema de colores" para elegir el que más nos guste. En mi caso lo dejé en negro, pero si lo ponemos en `light`, quedaría de esta manera:
 
-> [Aquí va la imagen del entorno en tema claro]
+> ![image](https://github.com/user-attachments/assets/be974625-39c6-442a-b124-a317f844b666)
 
 2. **¿Cómo configuraste la automatización de tareas y en qué te benefició durante el trabajo?**
 
-   Este código nos compilará los archivos que se guarden directamente. Para ello necesitaremos la extensión "Run on Save".
+> ![image](https://github.com/user-attachments/assets/d5359771-8d15-46f1-8f1c-407f02fa4539)
+> ![image](https://github.com/user-attachments/assets/bb7c1e7c-a72e-4dff-bc95-9c308a4108f9)
+> ![image](https://github.com/user-attachments/assets/02117ee4-7665-462a-bb6b-68d9735731bf)
 
-> [Aquí va la imagen de configuración de la extensión Run on Save]
+Este código nos compilará los archivos que se guarden directamente. Para ello necesitaremos la extensión "Run on Save".
+
+> ![image](https://github.com/user-attachments/assets/7db3e11a-569f-4fca-85e9-28f4127f3cc8)
 
 ---
 
@@ -84,14 +88,15 @@ Configura el sistema de actualizaciones automáticas o manuales en ambos IDEs pa
 
    En `Settings`, tenemos que tener activada la opción de chequeo automático de actualizaciones, en `default`.
 
+> ![image](https://github.com/user-attachments/assets/1ff83fc8-9ee0-4f3f-86dd-167d52c0776b)
+
 2. **¿Por qué es importante mantener el IDE actualizado en proyectos de desarrollo?**
 
-   Mantener el IDE actualizado es importante para aprovechar las últimas características, mejoras de rendimiento y optimizaciones en el flujo de trabajo. Las actualizaciones también suelen tener correcciones de seguridad, reduciendo el riesgo de vulnerabilidades. Además, los cambios en los lenguajes y librerías de desarrollo se reflejan en los IDEs a través de actualizaciones, asegurando la compatibilidad con nuevas tecnologías y estándares.
+Mantener el IDE actualizado es importante para aprovechar las últimas características, mejoras de rendimiento y optimizaciones en el flujo de trabajo. Las actualizaciones también suelen tener correcciones de seguridad, reduciendo el riesgo de vulnerabilidades. Además, los cambios en los lenguajes y librerías de desarrollo se reflejan en los IDEs a través de actualizaciones, asegurando la compatibilidad con nuevas tecnologías y estándares.
 
 **Evidencia:** Captura de pantalla de la configuración de actualizaciones en cada IDE.
 
-> [Aquí va la imagen de la configuración de actualizaciones]
-
+> 
 ---
 
 ## 2.5. Generación de ejecutables a partir de código fuente en distintos lenguajes en un mismo IDE (CE 2.e)
@@ -102,6 +107,8 @@ Escribe un programa que cuente de 10 a 0 y luego imprima "¡Despegue!". Usa un s
 **Preguntas evaluativas:**
 
 1. **¿Cuál fue el proceso para ejecutar el mismo programa en diferentes lenguajes dentro del mismo IDE?**
+> ![image](https://github.com/user-attachments/assets/f55eee62-c125-45b0-bee6-deb468a2abbc)
+> ![image](https://github.com/user-attachments/assets/c85300a5-9b18-4877-81f8-3fcd12b291c6)
 
 2. **¿Qué diferencias encontraste en la generación del ejecutable entre los dos lenguajes?**
 
@@ -123,6 +130,7 @@ Escribe un programa en Python que cuente de 10 a 0 y luego imprima "¡Despegue!"
 2. **¿Cuál de los IDEs te pareció más cómodo o eficiente para ejecutar el código Python o el lenguaje que hayas elegido? ¿Por qué?**
 
    Visual Studio Code, porque es el “IDE” con el que estoy acostumbrado a trabajar y es mucho más cómodo personalmente.
+> ![image](https://github.com/user-attachments/assets/b9986ef4-b560-4dd6-9dac-1bcd9f133bcf)
 
 ---
 
