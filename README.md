@@ -1,6 +1,6 @@
 <div align="center">
   
-# BEPAFRANI || APARTADO PABLO FERNÁNDEZ FERNÁNDEZ
+# BEPAFRANI || PABLO FERNÁNDEZ FERNÁNDEZ
 
 </div>
 
