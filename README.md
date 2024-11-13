@@ -48,7 +48,7 @@ En cada IDE, agrega extensiones o módulos que amplíen su funcionalidad. Por ej
 
 - **VSCode:** La instalación de las extensiones en Visual Studio es muy sencilla. Simplemente vamos a "Extensiones", seleccionamos la que queramos o la buscamos y la instalamos. Para Python usamos un conjunto de 3 extensiones, que son las siguientes:
 
-> [Instalación Visual Studio Code](./Instalación_Extensiones_VSCode.pdf)
+> [Instalación Visual Studio Code](./Instalación_Extensiones_VS.pdf)
 
 Por ejemplo, aquí se muestran las opciones que tienes con una extensión de Python. En el mismo sitio donde se ve "Uninstall", veríamos "Install"; simplemente es darle clic.
 
