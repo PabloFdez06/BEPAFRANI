@@ -21,14 +21,13 @@ Elige dos entornos de desarrollo: Instala ambos en tu equipo y captura pantallas
 
 ### PyCharm: Propietario
 
-> [Instalación PyCharm](./Instalación_VSCode)
+> [Instalación PyCharm](./Instalacion_PyCharm.pdf)
 
 Cogemos la versión `windows.exe`, ARM es la versión móvil.
 
 ### Visual Studio CODE: Libre
 
-> [Aquí va la imagen del proceso de instalación de Visual Studio Code]
-
+> [Instalación Visual Studio Code](./Instalacion_VSCode.pdf)
 ---
 
 ## 2.2. Gestión de módulos y extensiones en el entorno de desarrollo (CE 2.b)
