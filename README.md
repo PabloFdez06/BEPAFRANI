@@ -111,8 +111,13 @@ Escribe un programa que cuente de 10 a 0 y luego imprima "¡Despegue!". Usa un s
 **Preguntas evaluativas:**
 
 1. **¿Cuál fue el proceso para ejecutar el mismo programa en diferentes lenguajes dentro del mismo IDE?**
-> ![image](https://github.com/user-attachments/assets/f55eee62-c125-45b0-bee6-deb468a2abbc)
-> ![image](https://github.com/user-attachments/assets/c85300a5-9b18-4877-81f8-3fcd12b291c6)
+
+**JAVA**
+> ![image](https://github.com/user-attachments/assets/68eb4c2a-e7ab-42ee-86c1-a982eb466a94)
+
+**KOTLIN**
+
+> ![image](https://github.com/user-attachments/assets/1bc27a7c-3d63-41c4-99a7-ddb5e503e6f8)
 
 2. **¿Qué diferencias encontraste en la generación del ejecutable entre los dos lenguajes?**
 
