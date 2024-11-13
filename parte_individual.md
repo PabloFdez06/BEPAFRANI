@@ -9,10 +9,10 @@ Elige dos entornos de desarrollo: Instala ambos en tu equipo y captura pantallas
 - **¿Qué diferencias encontraste en el proceso de instalación entre el IDE propietario y el libre?**
 - **VSC**:
   Descargado desde la página oficial. Proceso:
-  -1: Al instalar te pide aceptar el acuerdo de licencia.
-  -2: Seleccionar las tareas adicionales que se realicen durante la instalación.
-  -3: Seleccionar la ruta de VSC.
-  -4: Por último pide si abrirlo antes de finalizar. 
+  - 1: Al instalar te pide aceptar el acuerdo de licencia.
+  - 2: Seleccionar las tareas adicionales que se realicen durante la instalación.
+  - 3: Seleccionar la ruta de VSC.
+  - 4: Por último pide si abrirlo antes de finalizar. 
 - **CLion**:
   Desde la página oficial he instalado **JetBrains Toolbox** y desde ahí instalé CLion. Se instala de manera directa desde la app sin necesidad de configuración adicional en la instalación, es decir, se instala directamente sin pedir nada y preparado para usar.
   Jetbrains es más profesional ya que tiene una app con todas las herramientas para instalar y gestionar estas. La herramienta es más rápida de instalar, sin tener más procesos que realizar, aunque se pierde la parte configurable que se puede hacer en VSC en la          instalación.
