@@ -21,7 +21,7 @@ Elige dos entornos de desarrollo: Instala ambos en tu equipo y captura pantallas
 
 ### PyCharm: Propietario
 
-> [Aquí va la imagen del proceso de instalación de PyCharm]
+> [Instalación PyCharm](./Instalacion_VSCode)
 
 Cogemos la versión `windows.exe`, ARM es la versión móvil.
 
