@@ -12,7 +12,7 @@ Elige dos entornos de desarrollo: Instala ambos en tu equipo y captura pantallas
   - 1: Al instalar te pide aceptar el acuerdo de licencia.
     ![Acuerdo de licencia](IMAG/img%20(1).png)
   - 2: Seleccionar las tareas adicionales que se realicen durante la instalación.
-    ![Tareas](IMAG/img%20(2).png)
+  ![Tareas](IMAG/img%20(2).png)
   - 3: Seleccionar la ruta de VSC.
     ![Ruta](IMAG/img%20(3).png)
   - 4: Por último, pide si abrirlo antes de finalizar. 
@@ -83,17 +83,16 @@ Personaliza el entorno de trabajo en cada IDE (tema, atajos de teclado) y automa
   Los aspectos visuales (tema, fuente,..) mejoran la legibilidad y como se ve el IDE. Atajos de teclado: mejora la velocidad al realizar acciones (como borrar terminal y ejecutar) y comodidad. Y por último, las extensiones son una combinación de las mejoras de las dos anteriores, mejoran el aspecto visual, el desarrollo e incluso añaden funcionalidades al IDE.
 
 - **¿Cómo configuraste la automatización de tareas y en qué te benefició durante el trabajo?**
-- **VSC**:
+
   Desde la opción (terminal) se puede crear la tarea y ejecutarla, se crea una task desde una plantilla (others). Dentro de `task.json` añadí la tarea. La tarea consistía en ejecutar pruebas pytest para automatizar las pruebas y aumentar la velocidad al comprobar los tests.
   ![VSC](IMAG/img%20(17).png)
-- **CLion**:
-  NI IDEA
+
   
 
 ### Evidencia:
 Captura de pantalla mostrando la personalización del entorno y la automatización de tareas en cada IDE. El antes y el después.
 - **Antes y después de VSC**:
-  ![VSCA](IMAG/img%20(12).png)
+  ![VSCA](IMAG/VSC.png)
   ![VSCA](IMAG/img%20(15).png)
   
 
@@ -141,6 +140,7 @@ Escribe un programa que cuente de 10 a 0 y luego imprima "¡Despegue!". Usa un s
   Para Java, es necesario instalar JDK para poder desarrollar y ejecutar archivos Java. Sin una extensión, el proceso de compilado y ejecución habría que hacerlo desde la terminal. Al igual que con Python, con una extensión para Java, como fue mi caso, ese proceso se hace automáticamente mediante el botón ejecutar.
 
 - **¿Qué diferencias encontraste en la generación del ejecutable entre los dos lenguajes?**
+.
   **Python y Java**: La principal diferencia es que Python, al ser un lenguaje interpretado, no genera código ejecutable. Sin embargo, Java sí genera código ejecutable. VSC, mediante la extensión, compila automáticamente los archivos `.java` y genera archivos `.class` (ejecutable que contiene el bytecode) en el mismo directorio o en una carpeta bin. Aunque esto se puede hacer desde la terminal integrada.
 
 ### Evidencia:
