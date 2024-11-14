@@ -19,7 +19,8 @@ Elige dos entornos de desarrollo: Instala ambos en tu equipo y captura pantallas
 - **CLion**:
   Desde la página oficial he instalado **JetBrains Toolbox** y desde ahí instalé CLion. Se instala de manera directa desde la app sin necesidad de configuración adicional en la instalación, es decir, se instala directamente sin pedir nada y preparado para usar.
   ![Toolbox](IMAG/img%20(5).png)
-  Jetbrains es más profesional ya que tiene una app con todas las herramientas para instalar y gestionar estas. La herramienta es más rápida de instalar, sin tener más procesos que realizar, aunque se pierde la parte configurable que se puede hacer en VSC en la instalación.
+
+  Jetbrains es más profesional ya que tiene una app con todas las herramientas para instalar y gestionar estas. La herramienta es más rápida de instalar, sin tener más procesos que realizar, aunque se pierde la parte configurable que se puede hacer en VSC en     la instalación.
 
   La principal diferencia es que los entornos de jetbrains están juntos en una app y VSC no.
 
@@ -63,10 +64,10 @@ En cada IDE, agrega extensiones o módulos que amplíen su funcionalidad. Por ej
 
 ### Evidencia:
 Captura de pantalla del panel de extensiones o plugins instalados en cada IDE.
-![VSC](IMAG/img%20(8).png)
+![VSC](IMAG/img_21.png)
 
 
-![CLion](IMAG/img%20(12).png)
+![CLion](IMAG/img%20(6).png)
 ---
 
 ## 2.3. Personalización y automatización del entorno (CE 2.c)
@@ -84,7 +85,7 @@ Personaliza el entorno de trabajo en cada IDE (tema, atajos de teclado) y automa
 - **¿Cómo configuraste la automatización de tareas y en qué te benefició durante el trabajo?**
 - **VSC**:
   Desde la opción (terminal) se puede crear la tarea y ejecutarla, se crea una task desde una plantilla (others). Dentro de `task.json` añadí la tarea. La tarea consistía en ejecutar pruebas pytest para automatizar las pruebas y aumentar la velocidad al comprobar los tests.
-  ![CLion](IMAG/img%20(12).png)
+  ![VSC](IMAG/img%20(17).png)
 - **CLion**:
   NI IDEA
   
@@ -97,9 +98,9 @@ Captura de pantalla mostrando la personalización del entorno y la automatizaci�
   
 
 - **Antes y después de CLion**:
-![CLionA](IMAG/img%20(12).png)
+![CLionA](IMAG/CLionA.png)
 
-![CLionD](IMAG/img%20(12).png)
+![CLionD](IMAG/CLionD.png)
 
 ---
 
