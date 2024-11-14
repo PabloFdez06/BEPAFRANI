@@ -10,12 +10,16 @@ Elige dos entornos de desarrollo: Instala ambos en tu equipo y captura pantallas
 - **VSC**:
   Descargado desde la página oficial. Proceso:
   - 1: Al instalar te pide aceptar el acuerdo de licencia.
+    ![Acuerdo de licencia](IMAG/img%20(1).png)
   - 2: Seleccionar las tareas adicionales que se realicen durante la instalación.
+    ![Tareas](IMAG/img%20(2).png)
   - 3: Seleccionar la ruta de VSC.
+    ![Ruta](IMAG/img%20(3).png)
   - 4: Por último pide si abrirlo antes de finalizar. 
 - **CLion**:
   Desde la página oficial he instalado **JetBrains Toolbox** y desde ahí instalé CLion. Se instala de manera directa desde la app sin necesidad de configuración adicional en la instalación, es decir, se instala directamente sin pedir nada y preparado para usar.
-  Jetbrains es más profesional ya que tiene una app con todas las herramientas para instalar y gestionar estas. La herramienta es más rápida de instalar, sin tener más procesos que realizar, aunque se pierde la parte configurable que se puede hacer en VSC en la          instalación.
+  ![Toolbox](IMAG/img%20(1).png)
+  Jetbrains es más profesional ya que tiene una app con todas las herramientas para instalar y gestionar estas. La herramienta es más rápida de instalar, sin tener más procesos que realizar, aunque se pierde la parte configurable que se puede hacer en VSC en la instalación.
 
   La principal diferencia es que los entornos de jetbrains están juntos en una app y VSC no.
 
@@ -23,7 +27,7 @@ Elige dos entornos de desarrollo: Instala ambos en tu equipo y captura pantallas
 - **VSC**:
   Al ser un editor ligero la instalación es bastante más rápida que otros IDEs. VSC permite elegir configuraciones personalizadas durante la instalación, como la selección de carpetas, la inclusión de extensiones y herramientas         adicionales.
 - **CLion**:
-  La ventaja que tiene Jetbrains (CLion) es que, mediante la toolbox, tiene una interfaz para gestionar todas las herramientas de jetbrains y sus proyectos, teniendo los demás IDEs a mano. Es instalarlo y usar, pero al instalarlo se pierde la parte de configurar como    la ruta de la carpeta y las tareas adicionales que tiene la instalación de VSC. Durante la instalación, CLion incluye automáticamente las configuraciones necesarias para trabajar con C/C++ y otros lenguajes compatibles, sin tener que realizar configuraciones           manuales de compiladores o entornos de ejecución, cosa que en VSC hay que hacerlo manualmente.
+  La ventaja que tiene Jetbrains (CLion) es que, mediante la toolbox, tiene una interfaz para gestionar todas las herramientas de jetbrains y sus proyectos, teniendo los demás IDEs a mano. Es instalarlo y usar, pero al instalarlo se pierde la parte de configurar como la ruta de la carpeta y las tareas adicionales que tiene la instalación de VSC. Durante la instalación, CLion incluye automáticamente las configuraciones necesarias para trabajar con C/C++ y otros lenguajes compatibles, sin tener que realizar configuraciones manuales de compiladores o entornos de ejecución, cosa que en VSC hay que hacerlo manualmente.
 
   
 
@@ -43,12 +47,12 @@ En cada IDE, agrega extensiones o módulos que amplíen su funcionalidad. Por ej
 - **¿Cómo fue el proceso de instalación de extensiones o módulos en cada IDE?**
   
   - **VSC**: Ir al apartado de extensiones, aparecen las instaladas, recomendadas, etc. Se coge una extensión, se le da a instalar y ya está instalada. Añadir también, que se pueden instalar las versiones anteriores de esa extensión.
-  - **CLion**: Hay plugins que son de pago (tener la licencia), por lo que se pierden muchos plugins importantes; pero tienen la mayoría un buen soporte. Para instalar, parecido a VSC, en el apartado de plugin selecciona una, instalar y ya. No es como en VSC que se                   podía instalar una versión específica.
+  - **CLion**: Hay plugins que son de pago (tener la licencia), por lo que se pierden muchos plugins importantes; pero tienen la mayoría un buen soporte. Para instalar, parecido a VSC, en el apartado de plugin selecciona una, instalar y ya. No es como en VSC que se podía instalar una versión específica.
 
 - **¿Qué beneficios proporcionan las extensiones o plugins que instalaste para el desarrollo de tus proyectos?**
   
   - **VSC**:
-    - **Pylance**, **Python**, **Python debugger**: Son extensiones que ayudan en el desarrollo de programas, haciendo más sencillo y rápido el desarrollo o la verificación del código Python. “Python” es una combinación de las otras dos y más extensiones. “Pylance” es                                                     un servidor del lenguaje de Python con las características de Python, como por ejemplo los docstrings y “Py Debugger” es una extensión para poder depurar los códigos de Python, y ver los fallos. Beneficia un                                                              desarrollo más cómodo y legible
+    - **Pylance**, **Python**, **Python debugger**: Son extensiones que ayudan en el desarrollo de programas, haciendo más sencillo y rápido el desarrollo o la verificación del código Python. “Python” es una combinación de las otras dos y más extensiones. “Pylance” es un servidor del lenguaje de Python con las características de Python, como por ejemplo los docstrings y “Py Debugger” es una extensión para poder depurar los códigos de Python, y ver los fallos. Beneficia un desarrollo más cómodo y legible
     - **Elm Emmet**: Es utilizado para crear código más rápido a través de abreviaciones emmet que se convierten en funciones.
     - **Prettier**: Formatea el código para que sea más legible.
     - **Live Server**: Crea un servidor que muestra la ejecución del código en tiempo real (beneficio: poder ver los cambios en tiempo real).
@@ -59,7 +63,10 @@ En cada IDE, agrega extensiones o módulos que amplíen su funcionalidad. Por ej
 
 ### Evidencia:
 Captura de pantalla del panel de extensiones o plugins instalados en cada IDE.
+![VSC](IMAG/img%20(1).png)
 
+
+![CLion](IMAG/img%20(21).png)
 ---
 
 ## 2.3. Personalización y automatización del entorno (CE 2.c)
