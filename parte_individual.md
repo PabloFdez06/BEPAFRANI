@@ -15,7 +15,7 @@ Elige dos entornos de desarrollo: Instala ambos en tu equipo y captura pantallas
     ![Tareas](IMAG/img%20(2).png)
   - 3: Seleccionar la ruta de VSC.
     ![Ruta](IMAG/img%20(3).png)
-  - 4: Por último pide si abrirlo antes de finalizar. 
+  - 4: Por último, pide si abrirlo antes de finalizar. 
 - **CLion**:
   Desde la página oficial he instalado **JetBrains Toolbox** y desde ahí instalé CLion. Se instala de manera directa desde la app sin necesidad de configuración adicional en la instalación, es decir, se instala directamente sin pedir nada y preparado para usar.
   ![Toolbox](IMAG/img%20(1).png)
@@ -63,10 +63,10 @@ En cada IDE, agrega extensiones o módulos que amplíen su funcionalidad. Por ej
 
 ### Evidencia:
 Captura de pantalla del panel de extensiones o plugins instalados en cada IDE.
-![VSC](IMAG/img%20(1).png)
+![VSC](IMAG/img%20(8).png)
 
 
-![CLion](IMAG/img%20(21).png)
+![CLion](IMAG/img%20(12).png)
 ---
 
 ## 2.3. Personalización y automatización del entorno (CE 2.c)
