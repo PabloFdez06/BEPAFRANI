@@ -141,8 +141,7 @@ Escribe un programa que cuente de 10 a 0 y luego imprima "¡Despegue!". Usa un s
   Para Java, es necesario instalar JDK para poder desarrollar y ejecutar archivos Java. Sin una extensión, el proceso de compilado y ejecución habría que hacerlo desde la terminal. Al igual que con Python, con una extensión para Java, como fue mi caso, ese proceso se hace automáticamente mediante el botón ejecutar.
 
 - **¿Qué diferencias encontraste en la generación del ejecutable entre los dos lenguajes?**
-- **Python y java**:
-  La principal diferencia es que Python, al ser un lenguaje interpretado, no genera código ejecutable. Sin embargo, Java sí genera código ejecutable. VSC, mediante la extensión, compila automáticamente los archivos `.java` y genera archivos `.class` (ejecutable que contiene el bytecode) en el mismo directorio o en una carpeta bin. Aunque esto se puede hacer desde la terminal integrada.
+  **Python y Java**: La principal diferencia es que Python, al ser un lenguaje interpretado, no genera código ejecutable. Sin embargo, Java sí genera código ejecutable. VSC, mediante la extensión, compila automáticamente los archivos `.java` y genera archivos `.class` (ejecutable que contiene el bytecode) en el mismo directorio o en una carpeta bin. Aunque esto se puede hacer desde la terminal integrada.
 
 ### Evidencia:
 Captura de pantalla mostrando la ejecución del programa en ambos lenguajes dentro del mismo IDE (VSC.
