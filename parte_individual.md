@@ -27,14 +27,14 @@ Elige dos entornos de desarrollo: Instala ambos en tu equipo y captura pantallas
 - **VSC**:
   Al ser un editor ligero la instalación es bastante más rápida que otros IDEs. VSC permite elegir configuraciones personalizadas durante la instalación, como la selección de carpetas, la inclusión de extensiones y herramientas adicionales.
 - **CLion**:
-  La ventaja que tiene Jetbrains (CLion) es que, mediante la toolbox, tiene una interfaz para gestionar todas las herramientas de jetbrains y sus proyectos, teniendo los demás IDEs a mano. Es instalarlo y usar, pero al instalarlo se pierde la parte de configurar como la ruta de la carpeta y las tareas adicionales que tiene la instalación de VSC. Durante la instalación, CLion incluye automáticamente las configuraciones necesarias para trabajar con C/C++ y otros lenguajes compatibles, sin tener que realizar configuraciones manuales de compiladores o entornos de ejecución, cosa que en VSC hay que hacerlo manualmente.
+  La ventaja que tiene Jetbrains (CLion) es que, mediante la toolbox, tiene una interfaz para gestionar todas las herramientas de jetbrains y sus proyectos, teniendo los demás IDEs a mano. Es instalarlo y usar, ya que lo configura automáticamente (se puede configurar en la toolbox la herramienta), pero en el proceso se pierde la parte de configurar manualmente como la ruta de la carpeta y las tareas adicionales que tiene la instalación de VSC. Durante la instalación, CLion incluye automáticamente las configuraciones necesarias para trabajar con C/C++ y otros lenguajes compatibles, sin tener que realizar configuraciones manuales de compiladores o entornos de ejecución, cosa que en VSC hay que hacerlo manualmente.
 
   
 
 ### Evidencia:
 Captura de pantalla del proceso de instalación de cada IDE.
 - **VSC**: Se instala y pide si abrirlo al finalizar la instalación.
-- **CLion**: Se instala directamente desde la toolbox de Jetbrains, dándole a instalar. Aparece ahí instalada y se usa directamente sin configurar como en VSC.
+- **CLion**: Se instala directamente desde la toolbox de Jetbrains, dándole a instalar. Aparece ahí instalada y se usa directamente sin poder configurar mientras se instala como en VSC.
 
 ---
 
@@ -78,7 +78,6 @@ Personaliza el entorno de trabajo en cada IDE (tema, atajos de teclado) y automa
 - **¿Qué aspectos del entorno personalizaste y cómo mejoró tu experiencia de desarrollo?**
   
   La manera que utilizo para modificar la configuración de VSC es a través de `settings.json` y atajos en `keybindings.json`, se me hace más cómodo poder modificar desde ahí cualquier parámetro. En settings, la mayoría son aspectos visuales como el tema que es rojo, la fuenta, etc. En keybindings, son los atajos de teclado y por último, las extensiones. En Clion hay que buscar la configuración de forma tradicional por los apartados en configuración.
-  ![VSC](IMAG/img%20(12).png)
   
   Los aspectos visuales (tema, fuente,..) mejoran la legibilidad y como se ve el IDE. Atajos de teclado: mejora la velocidad al realizar acciones (como borrar terminal y ejecutar) y comodidad. Y por último, las extensiones son una combinación de las mejoras de las dos anteriores, mejoran el aspecto visual, el desarrollo e incluso añaden funcionalidades al IDE.
 
@@ -92,8 +91,9 @@ Personaliza el entorno de trabajo en cada IDE (tema, atajos de teclado) y automa
 
 ### Evidencia:
 Captura de pantalla mostrando la personalización del entorno y la automatización de tareas en cada IDE. El antes y el después.
-- **Antes de VSC**:
-  ![CLion](IMAG/img%20(12).png)
+- **Antes y después de VSC**:
+  ![VSCA](IMAG/img%20(12).png)
+  ![VSCA](IMAG/img%20(15).png)
   
 
 - **Antes y después de CLion**:
@@ -117,7 +117,7 @@ Configura el sistema de actualizaciones automáticas o manuales en ambos IDEs pa
 
 - **¿Por qué es importante mantener el IDE actualizado en proyectos de desarrollo?**
   
-  Actualizar tu IDE garantiza que estés trabajando con la última versión del software, teniendo las nuevas funcionalidades que vayan introduciendo y corrección de los errores que tenga el IDE en algún momento. También se mejora la seguridad y se añaden nuevas            tecnologías compatibles.
+  Actualizar tu IDE garantiza que estés trabajando con la última versión del software, teniendo las nuevas funcionalidades que vayan introduciendo y corrección de los errores que tenga el IDE en algún momento. También se mejora la seguridad y se añaden nuevas    tecnologías compatibles.
 
 ### Evidencia:
 Captura de pantalla de la configuración de actualizaciones en cada IDE.
