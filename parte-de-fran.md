@@ -4,7 +4,7 @@
 
 Elige dos entornos de desarrollo: Instala ambos en tu equipo y captura pantallas del proceso de instalación.
 
-En mi caso, he elegido los IDEs Visual Studio Code y IntelliJ IDEA.
+En mi caso, he elegido los IDEs **Visual Studio Code** y **IntelliJ IDEA**.
 
 ### Proceso de instalación:
 
@@ -28,9 +28,9 @@ En mi caso, he elegido los IDEs Visual Studio Code y IntelliJ IDEA.
 
 - **¿Qué diferencias encontraste en el proceso de instalación entre el IDE propietario y el libre?**
 
-  Durante el proceso de instalación de ambos IDEs no he encontrado grandes diferencias. No obstante, sí durante el proceso de descarga del software. En el caso de Visual Studio Code, solo he necesitado entrar en la página de descarga (https://code.visualstudio.com/) y presionar el botón de descarga, obteniendo así el ejecutable.
+  Durante el proceso de instalación de ambos IDEs no he encontrado grandes diferencias. No obstante, sí durante el proceso de descarga del software. En el caso de **Visual Studio Code**, solo he necesitado entrar en la página de descarga (https://code.visualstudio.com/) y presionar el botón de descarga, obteniendo así el ejecutable.
 
-  Por otro lado, en el caso de IntelliJ IDEA, he necesitado crear una cuenta en la web de JetBrains, usando mi correo electrónico institucional (@g.educaand.es) y así he conseguido una licencia temporal de un año.
+  Por otro lado, en el caso de **IntelliJ IDEA**, he necesitado crear una cuenta en la web de JetBrains, usando mi correo electrónico institucional (@g.educaand.es) y así he conseguido una licencia temporal de un año.
 
   Una vez creada la cuenta, se procede de igual forma que con Visual Studio Code: descarga del ejecutable e instalación.
 
@@ -58,7 +58,7 @@ En mi caso, he elegido los IDEs Visual Studio Code y IntelliJ IDEA.
 
 - **¿Cómo fue el proceso de instalación de extensiones o módulos en cada IDE?**
 
-  Mientras que Visual Studio Code tiene un apartado en el navegador lateral, junto a los iconos de Explorador, Buscar y Control de versiones, entre otros, que hace la instalación de extensiones especialmente intuitiva y fácil; en IntelliJ IDEA el proceso es un poco más complejo, ya que el menú de plugins (como es llamado en este caso) no está en la pantalla principal del programa, sino en el menú de opciones al que se accede desde File → Settings.
+  Mientras que **Visual Studio Code** tiene un apartado en el navegador lateral, junto a los iconos de Explorador, Buscar y Control de versiones, entre otros, que hace la instalación de extensiones especialmente intuitiva y fácil; en **IntelliJ IDEA** el proceso es un poco más complejo, ya que el menú de plugins (como es llamado en este caso) no está en la pantalla principal del programa, sino en el menú de opciones al que se accede desde File → Settings.
 
 - **¿Qué beneficios proporcionan las extensiones o plugins que instalaste para el desarrollo de tus proyectos?**
 
@@ -74,8 +74,8 @@ Personaliza el entorno de trabajo en cada IDE (tema, atajos de teclado) y automa
 
 - **¿Qué aspectos del entorno personalizaste y cómo mejoró tu experiencia de desarrollo?**
 
-  En Visual Studio Code he modificado el tema de la interfaz, eligiendo un tono más oscuro al que viene por defecto desde File → Preferences → Theme. Con esto se consigue reducir sustancialmente la fatiga visual que provoca estar expuesto a la pantalla durante sesiones de trabajo largas.
-  En IntelliJ IDEA he creado un atajo o shortcut para duplicar líneas completas. En este caso, he tenido que abrir la ventana de Settings y hacerlo desde el apartado Keymap. Al configurar atajos de teclado, se reduce la utilización del ratón y, por tanto, se evitan las distracciones de cambiar del teclado al ratón. En el caso de trabajar con varios IDEs diferentes, al utilizar atajos similares, se consigue una mejora en la consistencia y rapidez en el flujo de trabajo.
+  En **Visual Studio Code** he modificado el tema de la interfaz, eligiendo un tono más oscuro al que viene por defecto desde File → Preferences → Theme. Con esto se consigue reducir sustancialmente la fatiga visual que provoca estar expuesto a la pantalla durante sesiones de trabajo largas.
+  En **IntelliJ IDEA** he creado un atajo o shortcut para duplicar líneas completas. En este caso, he tenido que abrir la ventana de Settings y hacerlo desde el apartado Keymap. Al configurar atajos de teclado, se reduce la utilización del ratón y, por tanto, se evitan las distracciones de cambiar del teclado al ratón. En el caso de trabajar con varios IDEs diferentes, al utilizar atajos similares, se consigue una mejora en la consistencia y rapidez en el flujo de trabajo.
 
   **En Visual Studio Code:**  
   ![Tema oscuro en VS Code](./Capturas%20Fran/Visual%20Studio%20Code-configuracion.png)
@@ -123,11 +123,11 @@ Personaliza el entorno de trabajo en cada IDE (tema, atajos de teclado) y automa
 
 - **¿Cómo configuraste las actualizaciones automáticas en cada IDE?**
 
-    En Visual Studio Code, el modo en que se gestionan las actualizaciones se configura desde File → Preferences → Settings → ‘update’ (en el buscador). Se puede ejecutar en los modos None, Manual, Start y Default.
+    En **Visual Studio Code**, el modo en que se gestionan las actualizaciones se configura desde File → Preferences → Settings → ‘update’ (en el buscador). Se puede ejecutar en los modos None, Manual, Start y Default.
 
   ![Configuración de actualizaciones en VS Code](./Capturas%20Fran/Visual%20Studio%20Code-updates.png)
 
-    En IntelliJ IDEA se hace de manera muy similar, navegando a File → Settings → System Setting → Updates
+    En **IntelliJ IDEA** se hace de manera muy similar, navegando a File → Settings → System Setting → Updates
 
   ![Configuración de actualizaciones en IntelliJ IDEA](./Capturas%20Fran/IntelliJ-updates.png)
 
@@ -146,18 +146,18 @@ Escribe un programa que cuente de 10 a 0 y luego imprima "¡Despegue!". Usa un s
 - **¿Cuál fue el proceso para ejecutar el mismo programa en diferentes lenguajes dentro del mismo IDE?**
 
   - **Java en IntelliJ IDEA:**
-  Para ejecutar el programa en Java dentro de IntelliJ IDEA, primero creé un proyecto de tipo Java y luego añadí un archivo de clase llamado Countdown.java. Escribí el código en Java que contaba de 10 a 0 usando un bucle for. Una vez que el código estuvo listo, verifiqué que el proyecto tuviera un JDK configurado correctamente. Luego, simplemente hice clic derecho en el archivo y seleccioné Run Countdown.main() para ejecutar el programa.
+  Para ejecutar el programa en Java dentro de **IntelliJ IDEA**, primero creé un proyecto de tipo Java y luego añadí un archivo de clase llamado Countdown.java. Escribí el código en Java que contaba de 10 a 0 usando un bucle for. Una vez que el código estuvo listo, verifiqué que el proyecto tuviera un JDK configurado correctamente. Luego, simplemente hice clic derecho en el archivo y seleccioné Run Countdown.main() para ejecutar el programa.
 
     ![Ejecución en Java](./Capturas%20Fran/Java-programa.png)
 
   - **Kotlin en IntelliJ IDEA:**
-    Para ejecutar el mismo programa en Kotlin, creé un archivo nuevo llamado Countdown.kt dentro del mismo proyecto en IntelliJ IDEA. Escribí el código en Kotlin, que utiliza la función downTo para contar de 10 a 0. Comprobé que el proyecto estuviera configurado para soportar Kotlin. Después de crear el archivo Kotlin, hice clic derecho sobre él y seleccioné Run Countdown.main(). Al ejecutar el programa, obtuve el mismo resultado que en Java, pero ahora usando Kotlin.
+    Para ejecutar el mismo programa en **Kotlin**, creé un archivo nuevo llamado Countdown.kt dentro del mismo proyecto en IntelliJ IDEA. Escribí el código en Kotlin, que utiliza la función downTo para contar de 10 a 0. Comprobé que el proyecto estuviera configurado para soportar Kotlin. Después de crear el archivo Kotlin, hice clic derecho sobre él y seleccioné Run Countdown.main(). Al ejecutar el programa, obtuve el mismo resultado que en Java, pero ahora usando Kotlin.
 
     ![Ejecución en Kotlin](./Capturas%20Fran/Kotlin-programa.png)
 
 - **¿Qué diferencias encontraste en la generación del ejecutable entre los dos lenguajes?**
 
-  La diferencia principal al generar el ejecutable entre Java y Kotlin es que, aunque ambos lenguajes terminan en un formato que puede ser ejecutado por la JVM (Java Virtual Machine), el proceso es ligeramente diferente. En Java, primero se compila el código en archivos .class, que luego se ejecutan. En Kotlin, el proceso es más directo, ya que se integra de manera más fluida en IntelliJ IDEA, y el código se compila automáticamente para ser ejecutado. Sin embargo, ambos lenguajes requieren la JVM para ejecutar el programa, por lo que, en la práctica, el resultado final es bastante similar.
+  La diferencia principal al generar el ejecutable entre **Java y Kotlin** es que, aunque ambos lenguajes terminan en un formato que puede ser ejecutado por la JVM (Java Virtual Machine), el proceso es ligeramente diferente. En Java, primero se compila el código en archivos .class, que luego se ejecutan. En Kotlin, el proceso es más directo, ya que se integra de manera más fluida en IntelliJ IDEA, y el código se compila automáticamente para ser ejecutado. Sin embargo, ambos lenguajes requieren la JVM para ejecutar el programa, por lo que, en la práctica, el resultado final es bastante similar.
 
 **Evidencia:** Captura de pantalla mostrando la ejecución del programa en ambos lenguajes dentro del mismo IDE.
 
@@ -177,10 +177,10 @@ Escribe un programa en Python que cuente de 10 a 0 y luego imprima "¡Despegue!"
 
 - **¿Qué diferencias encontraste al ejecutar el mismo código fuente en diferentes IDEs?**
 
-  A grandes rasgos, el proceso fue muy similar en ambos entornos. Ambos IDEs requieren configurar el intérprete de Python y ejecutar el código con unos pocos clics. La diferencia principal es que IntelliJ IDEA tiene una interfaz más completa y estructurada, mientras que VS Code es más ligero y rápido de configurar, pero ambos ofrecen una experiencia similar para ejecutar programas pequeños.
+  A grandes rasgos, el proceso fue muy similar en ambos entornos. Ambos IDEs requieren configurar el intérprete de Python y ejecutar el código con unos pocos clics. La diferencia principal es que **IntelliJ IDEA** tiene una interfaz más completa y estructurada, mientras que **VS Code** es más ligero y rápido de configurar, pero ambos ofrecen una experiencia similar para ejecutar programas pequeños.
 
 - **¿Cuál de los IDEs te pareció más cómodo o eficiente para ejecutar el código Python o el lenguaje que hayas elegido? ¿Por qué?**
 
-  Prefiero Visual Studio Code. Mi primera impresión como usuario de IntelliJ IDEA es que se trata de un IDE más completo y potente que VS Code, pero a la vez más complejo de configurar y utilizar en general. Aunque ambas interfaces son muy parecidas, Visual Studio Code muestra de una forma más explícita qué es  cada elemento (como en el panel lateral), sin necesidad de abrir menús previamente. Esto hace que, para alguien que se está introduciendo en la programación, sea mucho más intuitivo reconocer las características disponibles.
+  Prefiero **Visual Studio Code**. Mi primera impresión como usuario de **IntelliJ IDEA** es que se trata de un IDE más completo y potente que VS Code, pero a la vez más complejo de configurar y utilizar en general. Aunque ambas interfaces son muy parecidas, Visual Studio Code muestra de una forma más explícita qué es  cada elemento (como en el panel lateral), sin necesidad de abrir menús previamente. Esto hace que, para alguien que se está introduciendo en la programación, sea mucho más intuitivo reconocer las características disponibles.
 
 **Evidencia:** Captura de pantalla mostrando la ejecución del programa en ambos IDEs.
