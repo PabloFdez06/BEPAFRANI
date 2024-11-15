@@ -80,7 +80,8 @@ Personaliza el entorno de trabajo en cada IDE (tema, atajos de teclado) y automa
   
   La manera que utilizo para modificar la configuración de VSC es a través de `settings.json` y atajos en `keybindings.json`, se me hace más cómodo poder modificar desde ahí cualquier parámetro. En settings, la mayoría son aspectos visuales como el tema que es rojo, la fuenta, etc. En keybindings, son los atajos de teclado y por último, las extensiones. En Clion hay que buscar la configuración de forma tradicional por los apartados en configuración.
 
-En CLion la configuración de la aparencia es bastante pobre las posibilidades de cambios. Y la de los atajos tiene muchos apartados de atajos e incluso se pueden añadir más mediante plugins.
+  En CLion la configuración de la aparencia es bastante pobre, las posibilidades de cambios es un poco escasa. Y la de los atajos, tiene muchos apartados de atajos (como los atajos en el menú, los atajos para acciones en el editor, ...) e incluso se pueden añadir más mediante plugins.
+
   ![VSC](IMAG/Atajo.png)
   
   Los aspectos visuales (tema, fuente,..) mejoran la legibilidad y como se ve el IDE. Atajos de teclado: mejora la velocidad al realizar acciones (como borrar terminal y ejecutar) y comodidad. Y por último, las extensiones son una combinación de las mejoras de las dos anteriores, mejoran el aspecto visual, el desarrollo e incluso añaden funcionalidades al IDE.
@@ -89,7 +90,7 @@ En CLion la configuración de la aparencia es bastante pobre las posibilidades d
 
   **VSC**: Desde la opción (terminal) se puede crear la tarea y ejecutarla, se crea una task desde una plantilla (others). Dentro de `task.json` añadí la tarea. La tarea consistía en ejecutar pruebas pytest para automatizar las pruebas y aumentar la velocidad al comprobar los tests.
   ![VSC](IMAG/img%20(17).png)
-**CLion**: Lo he configurado desde `CMakeLists.txt`, he creado un comando que cada vez que se esté compilando el archivo `main.cpp` muestra "Ejecutando..." y hace un comment
+  **CLion**: Lo he configurado desde `CMakeLists.txt`, he creado un comando que cada vez que se esté compilando el archivo `main.cpp` muestra "Ejecutando..." y hace un comment
   ![CLion](IMAG/Automatizacion.png)
   
 
