@@ -61,7 +61,7 @@ Los IDEs trabajados comparten varias características clave que los hacen herram
 ### Recomendación global:
 Si el equipo trabaja en varios lenguajes, **IntelliJ IDEA Ultimate** es una solución ideal, ya que soporta múltiples lenguajes y herramientas en un solo entorno. Sin embargo, para equipos pequeños o con necesidades básicas, **VS Code** es una alternativa ligera y flexible.
 
-| **Característica**                       | **PyCharm**                                              | **Visual Studio Code**                                | **IntelliJ IDEA**                                   | **Eclipse**                                          |
+| **Característica**                       | **PyCharm**                                              | **Visual Studio Code**                                | **IntelliJ IDEA**                                   | **CLion**                                          |
 |------------------------------------------|---------------------------------------------------------|------------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
 | **Lenguajes soportados**                 | Python                                                  | Python, JavaScript, muchos más                       | Kotlin, Java, Python, Scala                        | Java, C/C++, Python, PHP                           |
 | **Velocidad de carga**                   | Medio                                                   | Rápido                                               | Medio                                              | Medio                                              |
