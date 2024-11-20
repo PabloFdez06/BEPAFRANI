@@ -17,7 +17,8 @@ Elige dos entornos de desarrollo: Instala ambos en tu equipo y captura pantallas
     ![Ruta](IMAG/img%20(3).png)
   - 4: Enseña la configuración introducida en tareas antes de instalar
     ![Config](IMAG/imgconf.png)
-  - 5: Se produce la instalación y por último, pide si abrirlo antes de finalizar. 
+  - 5: Se produce la instalación y por último, pide si abrirlo antes de finalizar.
+    ![FIN](IMAG/imgfin.png) 
 - **CLion**:
   Desde la página oficial he instalado **JetBrains Toolbox** y desde ahí instalé CLion. Se instala de manera directa desde la app sin necesidad de configuración adicional en la instalación, es decir, se instala directamente sin pedir nada y preparado para usar.
   ![Toolbox](IMAG/img%20(5).png)
